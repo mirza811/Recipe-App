@@ -1,4 +1,4 @@
-package com.veronica.idn.recipeapp.data
+package com.mirza.idn.recipeapp.data
 
 object DataRecipes {
     //breakfast

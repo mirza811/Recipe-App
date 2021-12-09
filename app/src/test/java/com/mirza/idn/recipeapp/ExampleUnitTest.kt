@@ -1,4 +1,4 @@
-package com.veronica.idn.recipeapp
+package com.mirza.idn.recipeapp
 
 import org.junit.Test
 

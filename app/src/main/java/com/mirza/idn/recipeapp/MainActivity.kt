@@ -1,12 +1,12 @@
-package com.veronica.idn.recipeapp
+package com.mirza.idn.recipeapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.fragment.app.Fragment
-import com.veronica.idn.recipeapp.databinding.ActivityMainBinding
-import com.veronica.idn.recipeapp.view.BreakfastFragment
-import com.veronica.idn.recipeapp.view.DessertFragment
-import com.veronica.idn.recipeapp.view.VegetarianFragment
+import com.mirza.idn.recipeapp.databinding.ActivityMainBinding
+import com.mirza.idn.recipeapp.view.BreakfastFragment
+import com.mirza.idn.recipeapp.view.DessertFragment
+import com.mirza.idn.recipeapp.view.VegetarianFragment
 
 class MainActivity : AppCompatActivity() {
     private lateinit var mainBinding: ActivityMainBinding

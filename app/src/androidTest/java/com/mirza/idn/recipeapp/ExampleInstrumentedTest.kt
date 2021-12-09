@@ -1,4 +1,4 @@
-package com.veronica.idn.recipeapp
+package com.mirza.idn.recipeapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.veronica.idn.recipeapp", appContext.packageName)
+        assertEquals("com.mirza.idn.recipeapp", appContext.packageName)
     }
 }

@@ -1,13 +1,13 @@
-package com.veronica.idn.recipeapp.adapter
+package com.mirza.idn.recipeapp.adapter
 
 import android.content.Intent
 import android.view.LayoutInflater
 import android.view.ViewGroup
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
-import com.veronica.idn.recipeapp.DetailActivity
-import com.veronica.idn.recipeapp.data.Recipes
-import com.veronica.idn.recipeapp.databinding.ItemRecipeBinding
+import com.mirza.idn.recipeapp.DetailActivity
+import com.mirza.idn.recipeapp.data.Recipes
+import com.mirza.idn.recipeapp.databinding.ItemRecipeBinding
 
 class RecipesAdapter(private val listRecipes: ArrayList<Recipes>) :
     RecyclerView.Adapter<RecipesAdapter.RecipeViewHolder>() {

@@ -1,4 +1,4 @@
-package com.veronica.idn.recipeapp.view
+package com.mirza.idn.recipeapp.view
 
 import android.os.Bundle
 import androidx.fragment.app.Fragment
@@ -6,10 +6,10 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.recyclerview.widget.GridLayoutManager
-import com.veronica.idn.recipeapp.data.DataRecipes
-import com.veronica.idn.recipeapp.data.Recipes
-import com.veronica.idn.recipeapp.adapter.RecipesAdapter
-import com.veronica.idn.recipeapp.databinding.FragmentBreakfastBinding
+import com.mirza.idn.recipeapp.data.DataRecipes
+import com.mirza.idn.recipeapp.data.Recipes
+import com.mirza.idn.recipeapp.adapter.RecipesAdapter
+import com.mirza.idn.recipeapp.databinding.FragmentBreakfastBinding
 
 
 class BreakfastFragment : Fragment() {

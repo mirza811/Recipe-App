@@ -1,10 +1,10 @@
-package com.veronica.idn.recipeapp
+package com.mirza.idn.recipeapp
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.bumptech.glide.Glide
-import com.veronica.idn.recipeapp.data.Recipes
-import com.veronica.idn.recipeapp.databinding.ActivityDetailBinding
+import com.mirza.idn.recipeapp.data.Recipes
+import com.mirza.idn.recipeapp.databinding.ActivityDetailBinding
 
 class DetailActivity : AppCompatActivity() {
     private lateinit var detailBinding: ActivityDetailBinding
